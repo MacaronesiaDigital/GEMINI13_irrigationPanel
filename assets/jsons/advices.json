@@ -1,0 +1,44 @@
+{
+    "advices": [
+        
+            {
+                "advice": "No inicies fogatas si hay algún aviso de incendio o temperaturas muy altas en tu región. ",
+                "link":"",
+                "doc": "",
+                "image": ""
+            },
+            {
+                "advice": "¿Sabías que el biochar es muy recomendable aplicarlo al trasplantar un árbol? Aprende cómo hacerlo si no sabes todavía. Pregúntame.",
+                "link":"",
+                "doc": "",
+                "image": ""
+            },
+            {
+                "advice": "Si vas a pirolizar hojas de palmera cuando vayas a usar el horno kon-Tiki, puedes cortar la hoja en dos, una parte con la tábala y la otra con el pírgano y los foliolos e ir entrecruzando las capas alternativamente.",
+                "link":"",
+                "doc": "",
+                "image": ""
+            },
+            {
+                "advice": "Observa en esta imagen algunos de los equipos de protección individual (EPIS) que puedes usar, como los guantes de protección térmica y mascarilla FFP2:",
+                "link":"",
+                "doc": "",
+                "image": "/images/guantes.jpg"
+            },
+            {
+                "advice": "Para quemas con el horno Kon-Tiki, es importante que siempre mantengas una capa de llama sobre la superficie del material que estas pirolizando y que la emisión de humo sea baja. Esto nos indica que se están quemando bien los gases de la pirólisis y el proceso está ocurriendo adecuadamente.",
+                "link":"",
+                "doc": "",
+                "image": ""
+            },
+            {
+                "advice": "Lo ideal para cuando se usen hojas de palmeras en el biochar sería cortar en tres partes la hoja de palmera a lo largo de su longitud. Separamos por un lado la parte ancha de la tábala, por otro la parte más fina que aún tiene pinchos y por último tendríamos la parte del pírgano con los foliolos. La parte ancha de la tábala también puede ser troceada para facilitar su pirolización.",
+                "link":"",
+                "doc": "",
+                "image": ""
+            }
+            
+        
+        
+    ]
+}

@@ -1,0 +1,175 @@
+{
+    "contacts": [
+        
+        {
+            "entidad": "Instituto Canario de Investigaciones Agrarias (ICIA)",
+            "nombre": "Vanessa Raya Ramallo", 
+            "departamento": "Ornamentales y Horticola",
+            "cargo": "Colaboradora científica",
+            "email": "vraya@icia.es", 
+            "telefono": "+34928122244"
+        },
+        {
+            "entidad": "Instituto Canario de Investigaciones Agrarias (ICIA)",
+            "nombre": "José Antonio Haroun Tabraue", 
+            "departamento": " Finca La Estación",
+            "cargo": "Ingeniero Técnico Agrícola",
+            "email": "jharoun@icia.es", 
+            "telefono": "+34928122241"
+        },
+        {
+            "entidad": "Instituto Canario de Investigaciones Agrarias (ICIA)",
+            "nombre": "María Isabel González de Chaves Maldonado", 
+            "departamento": "Instituto Canario de Investigaciones Agrarias",
+            "cargo": "Técnico de gestión económica",
+            "email": "iglezc@icia.es", 
+            "telefono": "+34922923284"
+        },
+
+        {
+            "entidad": "Instituto Tecnológioc de Canarias (ITC)",
+            "nombre": "Ricardo Díaz Díaz", 
+            "departamento": "Análisis Ambiental",
+            "cargo": "Jefe de Departamento",
+            "email": "rdiaz@itccanarias.org", 
+            "telefono": "+34928727628"
+        },
+        {
+            "entidad": "Instituto Tecnológioc de Canarias (ITC)",
+            "nombre": "Gilberto Manuel Martel Rodríguez", 
+            "departamento": "Agua",
+            "cargo": "Jefe de sección",
+            "email": "gmartel@itccanarias.org", 
+            "telefono": "+34928727592"
+        },
+        {
+            "entidad": "Instituto Tecnológioc de Canarias (ITC)",
+            "nombre": "Marta Hernández Medina", 
+            "departamento": "Departamento de Sociedad de la Información",
+            "cargo": "Titulada Superior",
+            "email": "mhernandez@itccanarias.org", 
+            "telefono": "+34928379854"
+        },
+
+        {
+            "entidad": "Universidad de Las Palmas de Gran Canaria (ULPGC)",
+            "nombre": "Elisenda Pulido Melián", 
+            "departamento": "Química",
+            "cargo": "Profesora Ayudante Doctor",
+            "email": "elisenda.pulido@ulpgc.es", 
+            "telefono": "+34928457298"
+        },
+        {
+            "entidad": "Universidad de Las Palmas de Gran Canaria (ULPGC)",
+            "nombre": "Montserrat Cabrera Morales", 
+            "departamento": "Gerencia",
+            "cargo": "Vicegerente de Investigación de la ULPGC",
+            "email": "vicegerentei@ulpgc.es", 
+            "telefono": "+34928453390"
+        },
+        {
+            "entidad": "Universidad de Las Palmas de Gran Canaria (ULPGC)",
+            "nombre": "Rubén Paz Hernández", 
+            "departamento": "Igeniería Mecánica",
+            "cargo": "Profesor",
+            "email": "ruben.paz@ulpgc.es", 
+            "telefono": "+34928458617"
+        },
+
+        {
+            "entidad": "Universidad de La Laguna (ULL)",
+            "nombre": "JESUS S. NOTARIO DEL PINO", 
+            "departamento": "BIOLOGIA ANIMAL, EDAFOLOGIA Y GEOLOGIA",
+            "cargo": "PROFESOR TITULAR DE UNIVERSIDAD",
+            "email": "jnotario@ull.edu.es", 
+            "telefono": "+34922318556"
+        },
+        {
+            "entidad": "Universidad de La Laguna (ULL)",
+            "nombre": "FRANCISCO JAVIER DÍAZ PEÑA", 
+            "departamento": "BIOLOGIA ANIMAL, EDAFOLOGIA Y GEOLOGIA",
+            "cargo": "PROFESOR CONTRATADO DOCTOR",
+            "email": "fjdiazpe@ull.edu.es", 
+            "telefono": "+34922318556"
+        },
+        {
+            "entidad": "Universidad de La Laguna (ULL)",
+            "nombre": "Fundación General de la Universidad de La Laguna", 
+            "departamento": "Área de proyectos",
+            "cargo": "Técnico",
+            "email": "proyectos@fg.ull.es", 
+            "telefono": "+34922319725"
+        },
+
+        {
+            "entidad": "Mancomunidad del Sureste de Gran Canaria",
+            "nombre": "JOSE RAFAEL SANCHEZ RAMIREZ", 
+            "departamento": "Gerencia",
+            "cargo": "Gerente",
+            "email": "mancomunidad@surestegc.org", 
+            "telefono": "+34928182896"
+        },
+        {
+            "entidad": "Mancomunidad del Sureste de Gran Canaria",
+            "nombre": "JOSE MANUEL CRUZ ACEBO", 
+            "departamento": "Departamento Técnico",
+            "cargo": "Técnico",
+            "email": "mancomunidad@surestegc.org", 
+            "telefono": "+34928182896"
+        },
+
+        {
+            "entidad": "Radio Ecca",
+            "nombre": "Ana Giménez Rodríguez", 
+            "departamento": "Área de acción social y administración",
+            "cargo": "Subdirectora",
+            "email": "a.gimenez@radioecca.org", 
+            "telefono": "+34928289168"
+        },
+        {
+            "entidad": "Radio Ecca",
+            "nombre": "Juan José Pérez Estévez", 
+            "departamento": "Área de acción social y Cooperación",
+            "cargo": "Jefe Acción Social y Cooperación",
+            "email": "j.pereze@radioecca.org", 
+            "telefono": "+34928289168"
+        },
+
+        {
+            "entidad": "Asociación de Desarrollo Rural ADER La Palma",
+            "nombre": "Francisco Miguel Domínguez San Luis", 
+            "departamento": "",
+            "cargo": "Gerente",
+            "email": "fdominguez@aderlapalma.org", 
+            "telefono": "+34922428252"
+        },
+        {
+            "entidad": "Asociación de Desarrollo Rural ADER La Palma",
+            "nombre": "Ana Yuste López", 
+            "departamento": "",
+            "cargo": "Ingeniera Agrícola",
+            "email": "agreco@aderlapalma.org", 
+            "telefono": "+34922428252"
+        },
+
+        {
+            "entidad": "Cabildo Insular de Gran Canaria",
+            "nombre": "María del Pilar Gutiérrez Acuña", 
+            "departamento": "Consejería de Sector Primario y Soberanía Alimentaria",
+            "cargo": "Jefa del Servicio Técnico de Granja Agrícola Experimenta",
+            "email": "pilargutacu@gmail.com", 
+            "telefono": "928219637"
+        },
+        {
+            "entidad": "Cabildo Insular de Gran Canaria",
+            "nombre": "Santiago García Medina", 
+            "departamento": "Granja Agrícola Experimental",
+            "cargo": "Director de Programa de Fruticultura",
+            "email": "agreco@.org", 
+            "telefono": "928219645"
+        }
+    ]
+    
+    
+    
+}
